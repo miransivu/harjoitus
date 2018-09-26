@@ -2,4 +2,8 @@
 
 echo "Hello World";
 
+Echo "Feature 1 - Myrsky";
+
+Echo "Goodbye World";
+
 ?>

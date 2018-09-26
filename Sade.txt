@@ -1,0 +1,9 @@
+<?php
+
+echo "Hello World";
+
+echo "Feature 1 - Myrsky";
+
+echo "Fearture 2 - Sade";
+
+?>
